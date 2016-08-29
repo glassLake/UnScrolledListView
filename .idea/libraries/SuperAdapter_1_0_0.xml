@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SuperAdapter-1.0.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/unscroll/build/intermediates/exploded-aar/com.github.glassLake/SuperAdapter/1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/unscroll/build/intermediates/exploded-aar/com.github.glassLake/SuperAdapter/1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
